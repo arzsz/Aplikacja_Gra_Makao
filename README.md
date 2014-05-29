@@ -38,3 +38,15 @@ Walet - karta żądająca. Po wyłożeniu waleta gracz może żądać kart niefu
 3 i 2 - kolejny gracz dobiera tyle kart ile widnieje na owej karcie. Aby się obronić na 3 należy wyłożyć 3 innego koloru lub 2 tego samego koloru. Wtedy kolejny gracz dobiera sumę z obu kart.
 
 TSW_Makao_Game
+
+
+# Sposób użycia
+
+Instalacja zależności:
+
+    npm install
+    bower install
+
+Uruchomienie serwera:
+
+    node app.js
