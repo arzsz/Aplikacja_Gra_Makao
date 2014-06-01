@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="pl">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Login</title>
+  <script src="/socket.io/socket.io.js"></script>
+  <script src="jquery/dist/jquery.min.js"></script>
+  
+  <link rel="stylesheet" href="css/gra.css">
+</head>
+<body>
+  <br/><br/>
+  <div id="tekst" style="text-align:center;"><h1>Podaj dane do rejestracji:</h1>
+  <div id="nick"><form action="/rejestracja" method="post">
+    <div>
+      <label>Użytkownik:</label><br/>
+      Nazwa:<input type="text" name="username">
+      Hasło:<input type="password" name="password">
+      Powtórz hasło:<input type="password" name="password2"><br/>
+      <input type="submit" value="Zarejestruj">
+    </div>
+  </form>
+  </form>
+  </div>
+  </div>
+  </body>
+  </html>
