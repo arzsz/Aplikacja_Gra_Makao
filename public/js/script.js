@@ -1,5 +1,5 @@
 function gra(){
-	document.getElementById("tekst").innerHTML = '<embed src="public/pdf/gra.pdf" width="100%" height="340"/>'
+	document.getElementById("tekst").innerHTML = '<embed src="pdf/gra.pdf" width="100%" height="340"/>'
 };
 
 function autor(){
