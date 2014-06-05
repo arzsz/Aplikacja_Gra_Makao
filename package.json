@@ -12,6 +12,7 @@
     "connect": "^2.14.5",
     "redis": "0.8.3",
     "express": "3.x",
+    "less-middleware": "^0.1.15",
     "socket.io": "^0.9.16",
     "ejs": "*",
     "passport": "^0.2.0",
